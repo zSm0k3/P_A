@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\bin\Debug\net8.0\Aula_08_03_2024_Ex01.exe
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\bin\Debug\net8.0\Aula_08_03_2024_Ex01.deps.json
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\bin\Debug\net8.0\Aula_08_03_2024_Ex01.runtimeconfig.json
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\bin\Debug\net8.0\Aula_08_03_2024_Ex01.dll
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\bin\Debug\net8.0\Aula_08_03_2024_Ex01.pdb
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\obj\Debug\net8.0\Aula_08_03_2024_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\obj\Debug\net8.0\Aula_08_03_2024_Ex01.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\obj\Debug\net8.0\Aula_08_03_2024_Ex01.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\obj\Debug\net8.0\Aula_08_03_2024_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\obj\Debug\net8.0\Aula_08_03_2024_Ex01.dll
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\obj\Debug\net8.0\refint\Aula_08_03_2024_Ex01.dll
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\obj\Debug\net8.0\Aula_08_03_2024_Ex01.pdb
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\obj\Debug\net8.0\Aula_08_03_2024_Ex01.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\PA\Program.cs\Aula_08_03_2024_Ex01\obj\Debug\net8.0\ref\Aula_08_03_2024_Ex01.dll
